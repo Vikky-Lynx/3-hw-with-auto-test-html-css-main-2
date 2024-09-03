@@ -42,7 +42,7 @@ header span {
     /* 📍 Свойствa flexbox для размещения блока с текстом и изображения в ряд, и центрирования их по вертикали */
     display: flex;
     justify-content: center;
-    align-items: normal;
+    align-items: center;
 }
 
 .text-wrapper {
